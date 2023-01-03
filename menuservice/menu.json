@@ -1,0 +1,5 @@
+[
+    {"name":"Basic Burger", "price":5.99, "isAvailable":true},
+    {"name":"Ultra Burger", "price":12.99, "isAvailable":true},
+    {"name":"Boo Cheese Deluxe Burger", "price":14.45, "isAvailable":false}
+]
